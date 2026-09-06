@@ -41,3 +41,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square\&logo=telegram\&logoColor=white)](https://t.me/Lap_Clar)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square\&logo=gmail\&logoColor=white)](mailto:lapclar@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Krestom)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square\&logo=kaggle\&logoColor=white)](https://www.kaggle.com/khrestomy)
+[![ODS](https://img.shields.io/badge/ODS-FF6B35?style=flat-square\&logoColor=white)](https://ods.ai/users/m0a2eac51fcdb)
+
